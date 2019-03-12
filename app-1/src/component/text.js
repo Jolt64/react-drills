@@ -5,7 +5,8 @@ class TextAndInput extends Component {
     super();
 
     this.state = {
-      userInput: ""
+      userInput: "",
+      things: ""
     };
 
   }
